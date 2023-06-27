@@ -1,0 +1,16 @@
+.circle2 {
+    border-radius: 50%;
+    position: absolute;
+    width: 231px;
+    height: 229px;
+    left: 700px;
+    top: 450px;
+    transform: translate(-50%, -50%);
+    opacity: 0.5;
+    z-index: -1;
+  }
+  
+  .orange {
+    background-color: #9c602cb1;
+  }
+  

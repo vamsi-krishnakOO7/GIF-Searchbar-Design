@@ -1,0 +1,16 @@
+.circle {
+    border-radius: 50%;
+    position: absolute;
+    width: 231px;
+    height: 229px;
+    left: 180px;
+    top: 150px;
+    transform: translate(-50%, -50%);
+    opacity: 0.5;
+    z-index: -1;
+  }
+  
+  .blue {
+    background-color: #2E5A9A;
+  }
+  
